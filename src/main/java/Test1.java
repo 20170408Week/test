@@ -7,5 +7,6 @@ public class Test1 {
         System.out.println("哈哈");
         System.out.print("看看");
         System.out.println("hehhe");
+        System.out.println("冲突");
     }
 }
